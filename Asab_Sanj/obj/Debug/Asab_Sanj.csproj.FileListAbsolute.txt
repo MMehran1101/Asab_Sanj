@@ -1,0 +1,26 @@
+D:\پایه یازدهم\برنامه سازی\پود۴\کدها\Asab_Sanj\Asab_Sanj\bin\Debug\Asab_Sanj.exe.config
+D:\پایه یازدهم\برنامه سازی\پود۴\کدها\Asab_Sanj\Asab_Sanj\bin\Debug\Asab_Sanj.exe
+D:\پایه یازدهم\برنامه سازی\پود۴\کدها\Asab_Sanj\Asab_Sanj\bin\Debug\Asab_Sanj.pdb
+D:\پایه یازدهم\برنامه سازی\پود۴\کدها\Asab_Sanj\Asab_Sanj\obj\Debug\Asab_Sanj.csprojAssemblyReference.cache
+D:\پایه یازدهم\برنامه سازی\پود۴\کدها\Asab_Sanj\Asab_Sanj\obj\Debug\Asab_Sanj.Form1.resources
+D:\پایه یازدهم\برنامه سازی\پود۴\کدها\Asab_Sanj\Asab_Sanj\obj\Debug\Asab_Sanj.Properties.Resources.resources
+D:\پایه یازدهم\برنامه سازی\پود۴\کدها\Asab_Sanj\Asab_Sanj\obj\Debug\Asab_Sanj.csproj.GenerateResource.cache
+D:\پایه یازدهم\برنامه سازی\پود۴\کدها\Asab_Sanj\Asab_Sanj\obj\Debug\Asab_Sanj.csproj.CoreCompileInputs.cache
+D:\پایه یازدهم\برنامه سازی\پود۴\کدها\Asab_Sanj\Asab_Sanj\obj\Debug\Asab_Sanj.exe
+D:\پایه یازدهم\برنامه سازی\پود۴\کدها\Asab_Sanj\Asab_Sanj\obj\Debug\Asab_Sanj.pdb
+D:\پایه یازدهم\برنامه سازی\پود۴\کدها\Asab_Sanj\Asab_Sanj\bin\Debug\fa-IR\Asab_Sanj.resources.dll
+D:\پایه یازدهم\برنامه سازی\پود۴\کدها\Asab_Sanj\Asab_Sanj\obj\Debug\Asab_Sanj.Form1.fa-IR.resources
+D:\پایه یازدهم\برنامه سازی\پود۴\کدها\Asab_Sanj\Asab_Sanj\obj\Debug\fa-IR\Asab_Sanj.resources.dll
+D:\Development\CSharp\Asab_Sanj\Asab_Sanj\bin\Debug\Asab_Sanj.exe.config
+D:\Development\CSharp\Asab_Sanj\Asab_Sanj\bin\Debug\Asab_Sanj.exe
+D:\Development\CSharp\Asab_Sanj\Asab_Sanj\bin\Debug\Asab_Sanj.pdb
+D:\Development\CSharp\Asab_Sanj\Asab_Sanj\bin\Debug\fa-IR\Asab_Sanj.resources.dll
+D:\Development\CSharp\Asab_Sanj\Asab_Sanj\obj\Debug\Asab_Sanj.csproj.AssemblyReference.cache
+D:\Development\CSharp\Asab_Sanj\Asab_Sanj\obj\Debug\Asab_Sanj.Form1.resources
+D:\Development\CSharp\Asab_Sanj\Asab_Sanj\obj\Debug\Asab_Sanj.Properties.Resources.resources
+D:\Development\CSharp\Asab_Sanj\Asab_Sanj\obj\Debug\Asab_Sanj.Form1.fa-IR.resources
+D:\Development\CSharp\Asab_Sanj\Asab_Sanj\obj\Debug\Asab_Sanj.csproj.GenerateResource.cache
+D:\Development\CSharp\Asab_Sanj\Asab_Sanj\obj\Debug\Asab_Sanj.csproj.CoreCompileInputs.cache
+D:\Development\CSharp\Asab_Sanj\Asab_Sanj\obj\Debug\fa-IR\Asab_Sanj.resources.dll
+D:\Development\CSharp\Asab_Sanj\Asab_Sanj\obj\Debug\Asab_Sanj.exe
+D:\Development\CSharp\Asab_Sanj\Asab_Sanj\obj\Debug\Asab_Sanj.pdb
